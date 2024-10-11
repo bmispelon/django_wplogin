@@ -1,7 +1,7 @@
 # django_wplogin
 Enhance your Django admin login page.
 
-Based on an idea by [https://github.com/alexgmin](@alexgmin)
+Based on an idea by [@alexgmin](https://github.com/alexgmin)
 
 
 # Installation
