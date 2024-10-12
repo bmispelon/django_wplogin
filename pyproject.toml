@@ -10,5 +10,14 @@ authors = [
     {name = "Baptiste Mispelon", email = "hello@bmispelon.rocks"}
 ]
 license = {file = "LICENSE"}
-classifiers = ["License :: OSI Approved :: MIT License"]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Framework :: Django",
+    "Framework :: Wagtail",
+    "Intended Audience :: Legal Industry",
+    "License :: OSI Approved :: MIT License",
+    "Topic :: Games/Entertainment",
+    "Topic :: Software Development :: Libraries :: PHP Classes",
+    "Topic :: Software Development :: Testing :: Mocking",
+]
 dynamic = ["version", "description"]
