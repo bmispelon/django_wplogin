@@ -5,7 +5,10 @@ build-backend = "flit_core.buildapi"
 [project]
 name = "django_wplogin"
 readme = "README.md"
-authors = [{name = "Baptiste Mispelon", email = "hello@bmispelon.rocks"}]
+authors = [
+    {name = "Alex Gómez"},
+    {name = "Baptiste Mispelon", email = "hello@bmispelon.rocks"}
+]
 license = {file = "LICENSE"}
 classifiers = ["License :: OSI Approved :: MIT License"]
 dynamic = ["version", "description"]
