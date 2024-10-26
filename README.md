@@ -5,7 +5,7 @@ Based on an idea by [@alexgmin](https://github.com/alexgmin)
 
 # Support
 
-If you're interested in supporting this project, we are happy to accept donations [here](https://www.djangoproject.com/fundraising/)
+[Like what we're doing? Please consider making a donation, it really helps.](https://www.djangoproject.com/fundraising/)
 
 # Installation
 
