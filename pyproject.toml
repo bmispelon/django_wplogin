@@ -12,3 +12,6 @@ authors = [
 license = {file = "LICENSE"}
 classifiers = ["License :: OSI Approved :: MIT License"]
 dynamic = ["version", "description"]
+
+[tool.flit.metadata.urls]
+Funding = "https://www.djangoproject.com/fundraising"

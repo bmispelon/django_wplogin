@@ -3,6 +3,9 @@ Enhance your Django admin login page.
 
 Based on an idea by [@alexgmin](https://github.com/alexgmin)
 
+# Support
+
+[Like what we're doing? Please consider making a donation, it really helps.](https://www.djangoproject.com/fundraising/)
 
 # Installation
 
