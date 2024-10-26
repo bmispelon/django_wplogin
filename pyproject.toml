@@ -24,5 +24,5 @@ classifiers = [
 ]
 dynamic = ["version", "description"]
 
-[tool.flit.metadata.urls]
+[project.urls]
 Funding = "https://www.djangoproject.com/fundraising"
