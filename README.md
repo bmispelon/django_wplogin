@@ -26,6 +26,15 @@ INSTALLED_APPS = [
 
 3) That's it. Your login page is now enhanced.
 
+# Extras
+
+If you're feeling brave, you can try the spooky version of the login form:
+```
+pip install django_wplogin[spooky]
+```
+
+(Courtesy of [django-admin-dracula](https://github.com/sjbitcode/django-admin-dracula) 🧛)
+
 
 # Screenshots
 

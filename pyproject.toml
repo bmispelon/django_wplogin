@@ -26,3 +26,6 @@ dynamic = ["version", "description"]
 
 [project.urls]
 Funding = "https://www.djangoproject.com/fundraising"
+
+[project.optional-dependencies]
+spooky = ["django-admin-dracula"]
