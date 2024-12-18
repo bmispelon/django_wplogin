@@ -2,4 +2,4 @@
 Enhance the Django admin login page
 """
 
-__version__ = "3.0.4"
+__version__ = "10.0"
