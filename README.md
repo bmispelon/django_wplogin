@@ -29,5 +29,5 @@ INSTALLED_APPS = [
 
 # Screenshots
 
-![Screenshot showing the Django admin login screen (light mode) with an extra checkbox that reads "I am not affiliated with WP Engine in any way, financially or otherwise"](https://blog.bmispelon.rocks/files/django_wplogin_screenshot_light.png)
-![Screenshot showing the Django admin login screen (dark mode) with an extra checkbox that reads "I am not affiliated with WP Engine in any way, financially or otherwise"](https://blog.bmispelon.rocks/files/django_wplogin_screenshot_dark.png)
+![Screenshot showing the Django admin login screen (light mode) with an extra checkbox that reads "I am not affiliated with WP Engine in any way, financially or otherwise"](https://blog.bmispelon.rocks/files/django_wplogin_screenshot_light2.png)
+![Screenshot showing the Django admin login screen (dark mode) with an extra checkbox that reads "I am not affiliated with WP Engine in any way, financially or otherwise"](https://blog.bmispelon.rocks/files/django_wplogin_screenshot_dark2.png)
